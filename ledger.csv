@@ -1,0 +1,2 @@
+delivery_date,sha256,made_at_ist,gate_closure_ist,note
+2026-10-25,ab1a1fda35d887e1e22eeb342638ce75325ac8ce22c1398101a2ad5c679cb86c,2026-10-24T12:04:32+05:30,2026-10-24T12:00:00+05:30,"dry run: forecast stored 2026-10-24 12:04 IST (after the 12:00 gate, before results); committed after results were published"
