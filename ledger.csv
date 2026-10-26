@@ -1,3 +1,4 @@
 delivery_date,sha256,made_at_ist,gate_closure_ist,note
 2026-10-25,ab1a1fda35d887e1e22eeb342638ce75325ac8ce22c1398101a2ad5c679cb86c,2026-10-24T12:04:32+05:30,2026-10-24T12:00:00+05:30,"dry run: forecast stored 2026-10-24 12:04 IST (after the 12:00 gate, before results); committed after results were published"
 2026-10-26,bea23d6a96e332e1c028746e915ca1da1eefd1895eeff18423a0132717404fea,2026-10-25T11:08:21+05:30,2026-10-25T12:00:00+05:30,"stored before gate by daily driver (manual relaunch after task's IEX TLS failure)"
+2026-10-27,1ff16aa293a384c3c66bdbeb43342605118f448f2ed905d78a4be7287e3ccb4c,2026-10-26T10:47:34+05:30,2026-10-26T12:00:00+05:30,"stored before gate"
